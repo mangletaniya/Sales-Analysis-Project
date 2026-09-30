@@ -25,6 +25,7 @@ This project focuses on analyzing sales data to identify important business insi
 
 ## 📁 Project Files
 
+* `Sales_Analysis_Dashboard.ipynb` – Complete Python analysis and dashboard
 * `3. Sample Sales Data.xlsx` – Dataset used for the analysis
 
 ## 🎯 Objective
